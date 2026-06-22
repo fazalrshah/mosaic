@@ -96,6 +96,12 @@ These cost real debugging time; Mosaic encodes them so you don't repeat them:
 - [ ] Per-chunk ACL metadata + filtered retrieval
 - [ ] Parent-document (hierarchical) retrieval using the stored section paths
 
+## Built by
+
+Built by **[KodeKing](https://www.kodeking.net)** · author **[Fazal Shah](https://www.fazalshah.com)**.
+We build local, private, multi-agent AI systems for teams who can't send their data to the cloud.
+Issues and PRs welcome.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
