@@ -105,3 +105,11 @@ Issues and PRs welcome.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- fazalshah-personal-site:start -->
+## Author and engineering notes
+
+Published by [Fazal Shah](https://fazalshah.com/). Explore my local AI experiments, Mac hardware test notes, agent engineering articles, and public tools on my [personal website](https://fazalshah.com/).
+
+[All public repositories](https://github.com/fazalrshah?tab=repositories) · [YouTube builds and walkthroughs](https://www.youtube.com/@fazalrshah)
+<!-- fazalshah-personal-site:end -->
